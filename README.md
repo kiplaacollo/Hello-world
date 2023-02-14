@@ -30,11 +30,10 @@
 - [📝 License](#license)
 
 
-# 📖 [PORTFOLIO SETUP: MOBILE VERSION] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
 
-**[PORTFOLIO SETUP: MOBILE VERSION]** is a  personal portfolio,  I starting with the mobile version first, then I will proceed to building the desktop version.
-
+**[Hello Microverse]** Is a welcome to coding in Microverse
 ## 🛠 Built With <a name="built-with"></a>
     - HTML
     - CSS
@@ -43,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://3nitygithub.github.io/Mobile-portfolio-setup/)
+- #
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +60,7 @@ In order to run this project:
 
 To clone this repository to your desired folder, use your code editor terminal or git bash, then type the command below:
 
-- git clone https://github.com/3nityGitHub/Mobile-portfolio-setup.git
+- git clone https://github.com/kiplaacollo/Hello-world.git
 
 
 
@@ -101,10 +100,9 @@ You can deploy this project using:
 ## 👥 Author: <a name="authors"></a>
 
 
-👤 **Rapheal Okonta**
+👤 **Kiplaa Collo**
 
-- GitHub: [@3nityGitHub](https://github.com/3nityGitHub)
-- Twitter: [@tbarijohnson](https://twitter.com/tbarijohnson)
+
 
 
 
