@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png" alt="logo" width="140" height="auto" />
+  <img src="#" alt="logo" width="140" height="auto" />
   <br/>
 
   <h3><b>README.md</b></h3>
@@ -30,67 +30,36 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 <a name="about-project">'Hello Microverse'</a>
 
 
-**[Hello Microverse]** Is a welcome to coding in Microverse
+**Hello Microverse** Is a welcome to coding in Microverse
 ## 🛠 Built With <a name="built-with"></a>
     - HTML
     - CSS
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 <a name="live-demo"></a>
 
-- #
+- Live Demo Link - N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>  
 
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project:
-- You need to have a Code Editor Installed
-- Make sure Nodejs and NPM is installed in your system for linters
 
 ### Setup
-
-To clone this repository to your desired folder, use your code editor terminal or git bash, then type the command below:
-
-- git clone https://github.com/kiplaacollo/Hello-world.git
-
 
 
 ### Install
 
-1. Install WebHint:
-
-npm install --save-dev hint@7.x
-
-2. Install StyleLint
-
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x 
-
-
 ### Usage
 
-To run the project:
-
-- open cloned folder in your code editor
-
 ### Run tests
-
-To run tests and check for errors:
-- After installing the required linter,
-
-npx stylelint "**/*.{css,scss}"
-
-- To fix CSS or SCSS linters error:
-
-npx stylelint "**/*.{css,scss}" --fix
 
 
 ### Deployment
@@ -102,13 +71,16 @@ You can deploy this project using:
 
 👤 **Kiplaa Collo**
 
-
-
-
+- GitHub: [@githubhandle](https://github.com/kiplaacollo)
+- Twitter: [@twitterhandle](https://twitter.com/kipkipki)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kiplangat-collins-548b07a5/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+🔭 Future Features
+ [Add Javascript to be responsive]
+ [Desktop version]
+ [Mobile menu]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
