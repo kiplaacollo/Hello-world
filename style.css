@@ -1,3 +1,7 @@
 .head {
   color: orange;
 }
+
+body {
+  margin: 0;
+}
